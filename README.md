@@ -1,0 +1,1 @@
+Este bot de Discord está diseñado para ayudar a los usuarios a mejorar su inglés de forma interactiva y entretenida. Utiliza actividades dinámicas, como trivias y juegos de ahorcado, para reforzar el aprendizaje del idioma a través de la práctica.
